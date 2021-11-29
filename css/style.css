@@ -1,0 +1,168 @@
+body{
+    
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    
+   font-family: Arial, Helvetica, sans-serif;
+  
+}
+hr{
+    width: 5%;
+    border-style: dotted;
+    border-bottom: none;
+    color: #060808;
+    margin: 100px auto;
+    border-width: 4px;
+}
+
+.top-container{
+    background-color:#E4F9F5;
+    margin: 0 ;
+    position: relative;
+    padding-bottom: 25px;
+}
+.mech-logo{
+    position: absolute;
+    left: 65%;
+    padding-top: 50px;
+    border-radius: 100%;
+}
+.mech-logo2{
+    position: absolute;
+    left: 33%;
+    border-radius: 100%;
+}
+
+.workshop{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    }
+.description{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+p{
+    line-height: 2;
+}
+
+
+h1{
+    color:#66BFBF;
+    margin: 0 auto 0 auto;
+    padding-top: 175px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #065252;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 1.7rem;
+}
+
+.branch{
+    font-style:italic;
+}
+.middle-container{
+   margin: 0;
+   padding-top: 70px;
+   background-color: #c6cac9;
+}
+.skills{
+    margin-top: 50px;
+}
+.intro{
+    width: 50%;
+    line-height: 2;
+    margin: auto auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 60px auto 100px auto;
+    line-height: 2;
+}
+.profile-picture{
+    padding-top: 15px;
+}   
+.web{
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+    margin-top:20px;
+    
+}
+.food{
+    border-radius: 90%;
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.message{
+    width: 30%;
+    margin: 20px auto 50px auto;
+}
+
+.contact-me{
+    padding-bottom: 40px;
+}
+.bottom-container{
+    background-color:#66BFBF;
+    padding: 50px 0 20px 0;
+
+}
+.footer-link{
+    padding: 0 20px 0 20px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #11999E;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 32;
+    -moz-border-radius: 32;
+    border-radius: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, @2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, @2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, @2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, @2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, @2bc4ad);
+    text-decoration: none;
+  }
+
+
+
